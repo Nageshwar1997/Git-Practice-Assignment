@@ -8,4 +8,4 @@ for(let i=1; i<=number;i++){
     count++;
   }
 }
-(count==0) ? console.log("it is a prime number") : console.log("it is not a prime number");
+(count==2) ? console.log("it is a prime number") : console.log("it is not a prime number");
